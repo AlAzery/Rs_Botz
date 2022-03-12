@@ -1,7 +1,9 @@
+//session lu bang
+
 {
-	"clientID": "bCCGa4xbZrIw1bGqAVUd0w==",
-	"serverToken": "1@Ppwrgo+qB24RR7lUhLHwz4vUR7d6cV0ca52vSmCzfINr/qMI8aTNpFTA5Zwyg+sY5vKkS3gvLTBjPA==",
-	"clientToken": "Vxkf1j5B+lJ3+K86R3Jd1u+z33UaVGKxhbL55TO+I4Q=",
-	"encKey": "ARIugLjoB9k8QY/49RBppSEp7AO/l2Hgca5r9aRlTT0=",
-	"macKey": "SwvCTrU0hwa++3HUPP7rIaLw4u3LsBTX0S41CVJ/XkU="
+	"clientID": "br5xhQoy6/9zQs2tBK9x1w==",
+	"serverToken": "1@A8Ln65YChLWEQdOLmcxR57EQKtv5c2fOS+oSKt39b1EwVpWZGsomR8osO8bNDVX9NdXrG0IipwjN0g==",
+	"clientToken": "I3hVjFMDPc2cH4OSdBruJQhpIqTstEyzSpgRWbdGOMs=",
+	"encKey": "tCuqHoT6TORZSCqrGRHwlO5gnATbQRqxKhZXg5+is+k=",
+	"macKey": "/Teov/5Jtr8R9FJ+CoxnT72HpRp8nbfJYeH8ZJEBHTQ="
 }
